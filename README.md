@@ -13,4 +13,6 @@ Operating System: Windows 11 Home Single Language.
 
 Computer: HP 256 G9 - Intel Core I3.
 
-©2005-2018 - Robson Silva - Programmer and Systems Developer
+Data Analysis and Machine Learning
+
+© 2025 - by Robson Silva - Python Programmer and Data Analyst.
