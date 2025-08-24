@@ -7,6 +7,12 @@ This is a project for exploratory and predictive analysis of students' academic 
 
 I also did an Artificial Intelligence project with the variation of new students' grades based on the analysis of the previous project that can be seen in the file alunos_ia.ipynb.
 
+Data Source
+This dataset was made available by Rabie El Kharoua on Kaggle and is licensed under CC BY 4.0:
+
+El Kharoua, R. (2024). Students Performance Dataset.
+Available at: Kaggle Dataset Link.
+
 Software and equipment used for development: Python 3.12.8 - Libraries (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn)
 
 Operating System: Windows 11 Home Single Language.
